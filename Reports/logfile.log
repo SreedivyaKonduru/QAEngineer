@@ -1,0 +1,10 @@
+2022-08-10 16:28:25,054 :ERROR : Testlogin :TestCase Failed
+2022-08-10 16:28:25,054 :INFO : Testlogin :For the user :test
+2022-08-10 16:28:35,309 :ERROR : Testlogin :TestCase Failed
+2022-08-10 16:28:35,309 :INFO : Testlogin :For the user :Test@abc.com
+2022-08-10 16:28:35,372 :ERROR : Testlogin :TestCase Failed
+2022-08-10 16:28:35,372 :INFO : Testlogin :For the user :
+2022-08-10 16:28:35,442 :ERROR : Testlogin :TestCase Failed
+2022-08-10 16:28:35,442 :INFO : Testlogin :For the user :
+2022-08-10 16:28:45,695 :INFO : Testlogin :TestCase Successfully Passed
+2022-08-10 16:28:45,695 :INFO : Testlogin :For the user :test@qa-experience.com
